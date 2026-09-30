@@ -1,0 +1,1 @@
+{"edgeClearance":0.5,"componentClearance":0.25,"rotationIncrement":45,"minGlobalFiducials":3,"minPitch":0.4,"maxTopHeight":4,"maxBottomHeight":2,"forbiddenBottomTypes":["connector"],"minPasteRatio":0.5,"maxPasteRatio":1}

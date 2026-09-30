@@ -1,0 +1,11 @@
+{
+  "width":50,"height":30,
+  "fiducials":[{"x":2,"y":2},{"x":48,"y":2},{"x":48,"y":28}],
+  "components":[
+    {"reference":"R1","value":"10k","package":"0603","type":"passive","x":10,"y":10,"rotation":0,"side":"top","width":1.6,"height":0.8,"heightZ":0.5,"pads":[{"area":0.5,"pasteArea":0.48},{"area":0.5,"pasteArea":0.48}]},
+    {"reference":"C1","value":"100nF","package":"0603","type":"passive","x":15,"y":10,"rotation":90,"side":"top","width":1.6,"height":0.8,"heightZ":0.5,"pads":[{"area":0.5,"pasteArea":0.45},{"area":0.5,"pasteArea":0.45}]},
+    {"reference":"U1","value":"MCU","package":"QFN-32","type":"ic","x":25,"y":15,"rotation":0,"side":"top","width":5,"height":5,"heightZ":1,"pin1Required":true,"pin1Marking":true,"pitch":0.5,"pads":[{"area":9,"pasteArea":5,"thermal":true,"windowpane":true}]},
+    {"reference":"D1","value":"LED","package":"0603","type":"diode","x":35,"y":10,"rotation":0,"side":"top","width":1.6,"height":0.8,"heightZ":0.6,"polarized":true,"polarityMarking":true,"pads":[{"area":0.5},{"area":0.5}]},
+    {"reference":"R2","value":"0R","package":"0603","type":"passive","x":40,"y":10,"rotation":0,"side":"top","width":1.6,"height":0.8,"dnp":true}
+  ]
+}

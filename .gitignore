@@ -1,0 +1,6 @@
+node_modules/
+coverage/
+*.log
+audit.json
+audit.md
+centroid.csv
